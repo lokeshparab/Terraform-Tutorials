@@ -71,3 +71,6 @@ if *terraform validate* fails then
         +  vpc_security_group_ids = ["sg-0077..."]
         +  subnet_id              = "subnet-923a..."
     }
+
+# Reference
+[Build AWS Infrastructure](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build)

@@ -72,5 +72,9 @@ if *terraform validate* fails then
         +  subnet_id              = "subnet-923a..."
     }
 
+7. **Destroy Infrastructure**
+    ```
+    terraform destory
+    ```
 # Reference
 [Build AWS Infrastructure](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build)
